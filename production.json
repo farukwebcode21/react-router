@@ -1,0 +1,83 @@
+[
+    {
+        "key": "1",
+        "name": "Rayan Tompson",
+        "works": "Web Developer",
+        "image": "https://i.ibb.co/DLHfTJm/team-1-800x800.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Romina Hadid",
+        "works": "MARKETING SPECIALIST",
+        "image": "https://i.ibb.co/1TPmsrq/team-2-800x800.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Alexa Smit",
+        "works": "UI/UX DESIGNER",
+        "image": "https://i.ibb.co/3MmDQMp/team-3-800x800.jpg"
+    },
+    {
+        "key": "4",
+        "name": "Raisa Ahmad",
+        "works": "Graphic Designer",
+        "image": "https://i.ibb.co/rwZxn6d/team-4-470x470.png"
+    },
+    {
+        "key": "5",
+        "head": "Our Top Class Teacher",
+        "h3": "Some qualities of a good teacher include skills in communication, listening, collaboration, adaptability, empathy and patience. Other characteristics of effective teaching include an engaging classroom presence, value in real-world learning, exchange of best practices and a lifelong love of learning."
+    },
+    {
+        "service":[
+            {
+                "course_id": "101",
+                "teacher": "Rayan Tompson",
+                "course": "Application Design",
+                "img":"https://i.ibb.co/QJVb4Jw/Screenshot-from-2021-10-25-01-27-43.png",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+            },
+            {
+                "course_id": "102",
+                "teacher": "Romina Hadid",
+                "course": "Graphic Designer",
+                "img":"https://i.ibb.co/pnqq5HS/Screenshot-from-2021-10-25-01-28-10.png",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+            },
+            {
+                "course_id": "103",
+                "teacher": "Alexa Smit",
+                "course": "UI/UX DESIGNER",
+                "img":"https://i.ibb.co/X2VMr72/Screenshot-from-2021-10-25-01-28-32.png",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+            },
+            {
+                "course_id": "104",
+                "teacher": "Raisa Ahmad",
+                "course": "Graphic Designer",
+                "img":" https://i.ibb.co/P1Vtyj7/Screenshot-from-2021-10-25-01-28-46.png",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+            },
+            {
+                "course_id": "105",
+                "teacher": "Farhano kyel",
+                "course": "WordPress Developer",
+                "img":"https://i.ibb.co/BN5q4RJ/Screenshot-from-2021-10-25-01-28-56.png",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+            },
+            {
+                "course_id": "106",
+                "teacher": "Hasin Haidar",
+                "course": "Master Of Everythings",
+                "img":"https://i.ibb.co/d5tBNqv/Screenshot-from-2021-10-25-01-29-41.png",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+            }
+        ]
+    }
+]
